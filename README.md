@@ -16,3 +16,6 @@ https://play.google.com/store/apps/details?id=appinventor.ai_poddarrupak2808.Rup
 - Arduino board (most likely Arduino Nano)
 - couple of jumper wires
 - Batteries
+
+# Wiring setup
+![wiring_setup](https://github.com/Rupakpoddar/Four-servo-quadruped-robot/blob/master/Wiring%20setup.png)
