@@ -20,6 +20,7 @@ Servo br; //  180
 
 void setup() {
   Serial.begin(9600);
+  Serial.setTimeout(10);
   fl.attach(4);
   fr.attach(6);
   bl.attach(8);
